@@ -1,8 +1,6 @@
 平行后台管理系统
 ======================
 
-[![平行后台管理系统 下载](http://peng.9x6.org/tp/public/index.php/download)](https://packagist.org/packages/topthink/think)
-
  + 基于命名空间和众多PHP新特性
  + 核心功能组件化
  + 强化路由功能
