@@ -1,6 +1,6 @@
 
 
-[![平行软件 下载](http://px-rj.com/pc/index.php)](http://peng.9x6.org/tp/public/index.php/download)
+[![平行软件 下载](http://peng.9x6.org/tp/public/index.php/download) ] (https://packagist.org/packages/topthink/think)
 
  + 基于命名空间和众多PHP新特性
  + 核心功能组件化
